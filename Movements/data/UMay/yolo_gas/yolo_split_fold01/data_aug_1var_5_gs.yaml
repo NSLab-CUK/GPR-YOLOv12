@@ -1,0 +1,7 @@
+path: ../data/UMay/yolo_gas/yolo_split_fold01
+nc: 1
+names:
+- Gas
+train: images/train_aug_1_5_gs
+val: images/val
+test: images/test
