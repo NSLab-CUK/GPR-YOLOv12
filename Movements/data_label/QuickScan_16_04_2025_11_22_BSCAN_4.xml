@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>image</folder>
+    <filename>QuickScan_16_04_2025_11_22_BSCAN_4.png</filename>
+    <path>image/QuickScan_16_04_2025_11_22_BSCAN_4.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>215</width>
+        <height>511</height>
+        <depth>1</depth>
+    </size>
+    <segmented>Unknown</segmented>
+    <object>
+        <name>오수</name>
+        <material>3중벽PE관</material>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>23</ymin>
+            <xmax>46</xmax>
+            <ymax>53</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>우수</name>
+        <material>흄관(HP)</material>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>161</xmin>
+            <ymin>23</ymin>
+            <xmax>181</xmax>
+            <ymax>43</ymax>
+        </bndbox>
+    </object>
+</annotation>
