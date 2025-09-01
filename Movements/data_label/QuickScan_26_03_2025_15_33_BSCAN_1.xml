@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>image</folder>
+    <filename>QuickScan_26_03_2025_15_33_BSCAN_1.png</filename>
+    <path>image/QuickScan_26_03_2025_15_33_BSCAN_1.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>394</width>
+        <height>511</height>
+        <depth>1</depth>
+    </size>
+    <segmented>Unknown</segmented>
+    <object>
+        <name>우수</name>
+        <material>수지파형강관(PCS)</material>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>353</xmin>
+            <ymin>56</ymin>
+            <xmax>388</xmax>
+            <ymax>87</ymax>
+        </bndbox>
+    </object>
+</annotation>
