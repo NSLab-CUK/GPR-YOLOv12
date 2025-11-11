@@ -1,4 +1,4 @@
-# YOLOv12 Modification for Underground Barrier Detection
+# Ground Penetrating Radar Image Analysis for Underground Barrier Detection by Combining YOLOv12 with Channel-wise Attention and Denoising Auto-Encoder
 
 ## 1. Overview
 
