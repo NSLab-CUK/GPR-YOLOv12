@@ -15,7 +15,11 @@ By combining denoising and attention mechanisms, the framework improves detectio
 
 ## 2. Reproducibility
 
+
+
 ## 3. Reference
+
+:page_with_curl: Paper
 
 ## 4. Cite
 
